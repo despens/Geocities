@@ -14,3 +14,7 @@ find . -type f  -print0 | xargs -0 file -i | grep -i application/x-tar | sed 's/
 #                         mime-type                                                       pass each                                                          decrunched files!
 #                                                                                         filename as 
 #                                                                                         an argument
+
+#real    519m26.836s
+#user    28m24.299s
+#sys     39m41.297s
