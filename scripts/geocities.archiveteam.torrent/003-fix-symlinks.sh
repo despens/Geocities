@@ -12,3 +12,8 @@ find . -maxdepth 1 -type l -print0 | xargs -0 -n1 -I filename bash -c 'echo file
 #                                                                                                           to sed for creating        name          the leading        link.        with the same     NULL-bytes.    execution
 #                                                                                                           a commandline.                           '/geocities' out.               name as before.
 #
+
+
+# real    3m36.936s
+# user    0m2.248s
+# sys     0m10.845s
