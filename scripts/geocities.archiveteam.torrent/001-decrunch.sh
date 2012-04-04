@@ -15,3 +15,6 @@ find . -name *.7z.001 | xargs -P4 -I filename 7z x filename -o$GEO_WORK
 
 
 
+#real    361m21.098s
+#user    799m53.967s
+#sys     15m55.676s
