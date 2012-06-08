@@ -13,7 +13,8 @@ use File::Find;
 sub remove {
     # find only symlinks
     if(-l) {
-        my $link_destination = `readlink -n $_`; # where symlink is pointing to, without newline in the end
+        my $link_destination = `readlink -n $_`; # where symlink is pointing to, 
+                                                 # without newline in the end
 
         my @path = split('/', $File::Find::name);
         
@@ -28,3 +29,8 @@ sub remove {
 # Run through www.geocities.com
 find(\&remove, $ENV{GEO_WORK}.'/geocities/www.geocities.com');
 
+# This script is ridiculously inefficient! But still better
+# than doing it manually :)
+# real    181m22.134s
+# user    1m47.071s
+# sys     2m39.086s
