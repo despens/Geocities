@@ -19,3 +19,7 @@ You need to put this in your shell's startup script (e.g. ~/.bashrc)
   export GEO_SOURCE=/media/Geocities/source         # distribution files
   export GEO_WORK=/media/Geocities/work             # tmp directory
   export GEO_ARCHIVE=/media/Geocities/archive       # normalized archives
+
+I recommend adding scripts/bin to the executable path.
+
+~~despens, 2012-06-09
