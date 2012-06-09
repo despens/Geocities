@@ -3,15 +3,19 @@ Making sense of the Archiveteam's Geocities Torrent
 
 Using Ubuntu 12.04
 
-You need a lot of harddrive space to seriously work with Geocities. I recommend
-setting up an LVM spanning two 2TB disks. There is still the need to save
-space with such a setup, so these scripts will wipe temporary files after
-they are used.
+You need a lot of harddrive space to seriously work with Geocities. I 
+recommend setting up an LVM spanning two 2TB disks. There is still the need 
+to save space with such a setup, so these scripts will wipe temporary files
+after they are used.
 
 The only versions kept will be the originals (as in how the data was
 distributed) and the finished, workable archive files.
 
+Read the scripts' source before running them, it might hint you towards
+packages you need to install and contain instructions on their usage.
+
 You need to put this in your shell's startup script (e.g. ~/.bashrc)
 
-  export GEO_SOURCE=/media/Geocities/source
-  export GEO_WORK=/media/Geocities/work
+  export GEO_SOURCE=/media/Geocities/source         # distribution files
+  export GEO_WORK=/media/Geocities/work             # tmp directory
+  export GEO_ARCHIVE=/media/Geocities/archive       # normalized archives
