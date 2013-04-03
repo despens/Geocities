@@ -11,11 +11,7 @@ ls -f -1 | tr '\n' '\0' | xargs -0 file -i | grep -i application/x-tar | sed 's/
 # files in    lines by    command on each    that are tarballs.          any output but   lines to       and delete the tarballs after successful            Remove this if you
 # the dir,    NULL bytes  found file to                                  the file names.  NULL bytes     decrunching.                                        would like to keep
 # just name   for xargs.  determine its                                                   so xargs can                                                       copies of the
-# and one                 mime-type                                                       pass each                                                          decrunched files!
+# and one                 mime-type.                                                      pass each                                                          decrunched files!
 # column.                                                                                 filename as 
 #                                                                                         an argument
 
-
-#real    519m26.836s
-#user    28m24.299s
-#sys     39m41.297s
