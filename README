@@ -11,15 +11,28 @@ after they are used.
 The only versions kept will be the originals (as in how the data was
 distributed) and the finished, workable archive files.
 
-Read the scripts' source before running them, it might hint you towards
+Read the scripts' sources before running them, it might hint you towards
 packages you need to install and contain instructions on their usage.
 
-You need to put this in your shell's startup script (e.g. ~/.bashrc)
+You need some environment variables, you might set them in your shell's startup
+script (i.e. .bashrc):
 
-  export GEO_SOURCE=/media/Geocities/source         # distribution files
-  export GEO_WORK=/media/Geocities/work             # tmp directory
-  export GEO_ARCHIVE=/media/Geocities/archive       # normalized archives
+    export GEO_SOURCE=/media/Geocities/source               # distribution files
+    export GEO_WORK=/media/Geocities/work                   # tmp directory
+    export GEO_ARCHIVE=/media/Geocities/archive             # normalized archives
 
-I recommend adding scripts/bin to the executable path.
+    export GEO_LOGS=~/Geocities/scripts/log                 # log files and lists
+    export GEO_SCRIPTS=~/Geocities/scripts                  # software 
+    export GEO_SCREENSHOTS=~/Geocities/archive/screenshots  # screenshots dir
 
-~~despens, 2012-06-09
+    export GEO_DB_HOST='localhost'                          # database access
+    export GEO_DB_DB='Geocities'
+    export GEO_DB_USER='despens'
+    export GEO_DB_PASSWD='despens'
+
+
+~~Dragan Espenschied, 2013-04-03
+
+Additional Info:
+Research blog: http://contemporary-home-computing.org/1tb/
+Screenshot strem: http://oneterabyteofkilobyteage.tumblr.com/
