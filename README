@@ -1,7 +1,13 @@
+One Terabyte Of Kilobyte Age
+============================
+
+Research blog: http://contemporary-home-computing.org/1tb/
+Screenshot stream: http://oneterabyteofkilobyteage.tumblr.com/
+
 Making sense of the Archiveteam's Geocities Torrent
 ---------------------------------------------------
 
-Using Ubuntu 12.04
+This project was created on Ubuntu 12.04.
 
 You need a lot of harddrive space to seriously work with Geocities. I 
 recommend setting up an LVM spanning two 2TB disks. There is still the need 
@@ -36,9 +42,6 @@ script (i.e. .bashrc):
 Additional Info:
 
 All material released under the AGPL, see LICENSE.
-
-Research blog: http://contemporary-home-computing.org/1tb/
-Screenshot strem: http://oneterabyteofkilobyteage.tumblr.com/
 
 During 2012, this project was supported by
 Swiss National Science Foundation http://www.snf.ch/, at the
