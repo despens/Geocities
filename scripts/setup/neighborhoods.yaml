@@ -1,0 +1,87 @@
+# Structure of Geocities Neighborhoods, info taken from
+# http://www.bladesplace.id.au/geocities-neighborhoods-suburbs.html
+
+---
+
+Area51: [Atlantis, Aurora, Capsule, Cavern, Chamber, Comet, Corridor, Crater, Dimension, Dreamworld, Dunes, Dungeon, Holw, Hollow, Jupiter, Keep, Labyrinth, Lair, Matrix, Meteor, Nebula, Neptune, Nova, Omega, Orion, Planet, Portal, Quadrant, Quark, Quasar, Rampart, Realm, Saturn, Shadowlands, Shire, Shuttle, Stargate, Starship, Station, Underworld, Vault, Zone]
+
+Athens: [Academy, Acropolis, Aegean, Agora, Atlantis, Atrium, Bridge, Column, Crete, Cyprus, Delphi, Forum, Ithaca, Library, Marathon, Marble, Olympus, Oracle, Pantheon, Parthenon, Rhodes, Sparta, Stage, Styx, Thebes, Troy]
+        
+Augusta: [Fairway, Green, Links]
+
+Baja: [Canyon, Cliffs, Desert, Dunes, Mesa, Mountain, Outback, Ravine, Trails]
+
+BourbonStreet: [Bayou, Canal, Delta, Inn, Quarter, Square]
+
+Broadway: [Alley, Balcony, Booth, Lobby, Orchestra, Stage, Wing]
+    
+CapeCanaveral: [Campus, Cockpit, Galaxy, Hall, Hangar, Lab, LaunchPad, Orbit, Runway, Station]
+    
+CapitolHill: [Booth, Congress, Embassy, House, Lobby, Parliament, Rotunda, Senate]
+    
+CollegePark: [Bookstore, Cafeteria, Campus, Center, Classroom, Club, Den, Dorm, Field, Grounds, Gym, Hall, Housing, Lab, Library, Locker, Lounge, Plaza, Pool, Quad, Residence, Square, Stadium, Theater, Union, Varsity]
+    
+Colosseum: [Arena, Base, Bench, Bleachers, Court, Dome, Dugout, Field, Game, Goal, Gym, Hoop, Lane, Lodge, Loge, Midfield, Mound, Park, Pool, Pressbox, Ring, Rink, Sideline, Slope, Stadium, Stands, Track, Turf]
+    
+EnchantedForest: [Arbor, Cottage, Cove, Creek, Dell, Fountain, Glade, Kingdom, Meadow, Mountain, Palace, Pond, Tower]
+
+Eureka: [Account, Boardroom, Business, Company, Concourse, Enterprises, Executive, Fund, Gold, Meeting, Mine, Office, Park, Plaza, Promenade, Suite, Vault]
+
+FashionAvenue: [Agency, Catwalk, Mall, Runway, Salon, Show, Stage]
+
+Heartland: [Acres, Arbor, Bluffs, Cabin, Canyon, Cliffs, Cottage, Country, Creek, Estates, Falls, Farm, Fields, Flats, Forest, Garden, glade, Grove, Hearth, Hills, Hollow, Lake, Lane, Meadows, Oaks, Orchard, Park, Pines, Plains, Pointe, Pond, Prairie, Ranch, Ridge, River, Shores, Stream, Trail, Valley, Village, Vista, Woods]
+
+Hollywood: [Academy, Agency, Boulevard, Bungalow, Camera, Chateau, Cinema, Club, Derby, Film, Guild, Heights, Highrise, Hills, Interview, Land, Location, Lot, Makeup, Mansion, Movie, Palace, Park, Pavillion, Picture, Prop, Screen, Set, Star, Studio, Theater, Trailer, Video]
+
+HotSprings: [Bath, Chalet, Falls, Oasis, Resort, Retreat, Sauna, Spa, Villa]
+
+MadisonAvenue: [Boardroom, Commercial, Newsstand, Suite]
+
+MotorCity: [Boulevard, Downs, Factory, Flats, Freeway, Garage, Highway, Lane, Lot, Pit, Shop, Show, Speedway, Street, Strip, Track]
+
+NapaValley: [Cellar, Cupboard, Kitchen, Vineyard]
+
+Nashville: [Bluegrass, Opry, Ranch, Rodeo, Stage]
+
+Paris: [Arc, Art, Bistro, Boutique, Cabaret, Cafe, Cathedral, Chalet, Chateau, Cinema, Concorde, Fontaine, Galerie, Gallery, Jardin, LeftBank, Library, Lights, Loft, Louvre, Maison, Metro, Musee, Opera, Palais, Parc, Pavilion, Promenade, Rue, Salon, Shoppe, Sorbonne, Theatre, Tower, Villa]
+
+Pentagon: [Barracks, Base, Bunker, Camp, Fort, Quarters]
+
+Petsburgh: [Fair, Farm, Haven, Park, Reserve, Stable, Yard, Zoo]
+
+PicketFence: [Garden, Gazebo, Street]
+
+Pipeline: [Cliff, Curb, Dropzone, Extreme, Force, Halfpipe, Ramp, Rapids, Reef, Ridge, Shore, Slope, Speed, Valley]
+
+RainForest: [Andes, Canopy, Jungle, station, Vines, Watershed, Wetlands]
+
+ResearchTriangle: [Campus, Facility, Forum, Invention, Lab, Node, Station, System, Thinktank]
+
+RodeoDrive: [Boutique, Mall, Outlet, Plaza]
+
+SiliconValley: [Bay, Bit, Board, Bridge, Byte, Cable, Campus, Chip, Circuit, Code, Disk, Drive, File, Foothills, Garage, Grid, Hardware, Haven, Heights, Hills, Horizon, Hub, Lab, Lakes, Modem, Monitor, Mouse, Network, Node, Office, Orchard, Park, Peaks, Pines, Platform, Port, Program, Ridge, Screen, Sector, Server, Software, Station, Vista, Way]
+
+SoHo: [Atrium, Bistro, Cafe, Canvas, Coffeehouse, Courtyard, Den, Easel, Exhibit, Gallery, Hall, Lofts, Museum, Nook, Opening, Palette, Park, Rooftop, Square, Studios, Study, Suite, Veranda, Village, Workshop]
+
+SouthBeach: [Balcony, Bay, Bluffs, Boardwalk, Breakers, Bungalow, Cabana, Canal, Cape, Castle, Channel, Cliffs, Club, Coast, Cove, Disco, Docks, Dunes, Gulf, Harbor, Inlet, Island, Jetty, Keys, Lagoon, Lights, Lounge, Mansion, Marina, Palms, Patio, Peir, Plateau, Pointe, Port, Reef, Sandbar, Sands, Shores, Strand, Suite, Surf, Terrace, Tidepool, Wharf]
+
+SunsetStrip: [Alley, Amphitheatre, Arena, Auditorium, Backstage, Balcony, Bar, Basement, Bass, Beat, Birdland, Bistro, Booth, Cabaret, Club, Concert, Derby, Diner, Disco, Event, Exhibit, Festival, Floor, Frontrow, Gala, Garage, Hall, Hotel, Limo, Lobby, Loft, Loge, Lounge, Mezzanine, Palace, Palladium, Palms, Pavilion, Performance, Pit, Plaza, Scene, Set, Show, Stadium, Stage, Street, Studio, Tempo, Theater, Towers, Underground, Venue, Villa, Vine]
+
+TelevisionCity: [Broadcast, Lot, Network, Satellite, Set, Stage, Station, Studio, Taping]
+
+TheTropics: [Bay, Beach, Cabana, Coast, Cove, Equator, Harbor, Island, Lagoon, Paradise, Reef, Resort, Shores]
+
+TimesSquare: [Adventure, Alley, Arcade, Arena, Avatar, Battlefield, Bridge, Bunker, Castle, Cauldron, Cave, Cavern, Chamber, Chaos, Chasm, Corner, Corridor, Dome, Dragon, Dungeon, Fortress, Frontier, Galaxy, Hangar, Hero, Labyrinth, Lair, Legend, Maze, Metro, Portal, Realm, Ring, Stadium, Tower, Zone]
+
+Tokyo: [Bay, Blossom, Bridge, Club, Courtyard, Dojo, Field, Flats, Fountain, Fuji, Garden, Ginza, Gulf, Harbor, Highrise, Island, Lights, Market, Pagoda, Palace, Shores, Shrine, Spa, Springs, Subway, Teahouse, Temple, Towers, Villa]
+Vienna: [Choir, Opera, Stage, Strasse, Studio]
+
+WallStreet: [Bank, Bureau, District, Exchange, Floor, Fund, Highrise, Market, Stock]
+
+Wellesley: [Atrium, Commons, Garden, Gazebo, Veranda]
+
+WestHollywood: [Cafe, Castro, Chelsea, Club, Heights, Parade, Park, Salon, Stonewall, Village]
+
+Yosemite: [Cabin, Campground, Canyon, Falls, Forest, Geyser, Gorge, Meadows, Rapids, Trails]
+
+Northpole: []
