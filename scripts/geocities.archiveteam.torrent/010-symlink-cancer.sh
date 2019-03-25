@@ -4,10 +4,10 @@
 # These almost endless loops mess up the file system big time,
 # generating false impressions of users being overly active
 # and burning processor cycles and storage memory.
-# It is save to remove these directories if the data they contain
+# It is safe to remove these directories if the data they contain
 # is the same.
 #
-# These directories have been manually checked for being save
+# These directories have been manually checked for being safe
 # to remove. To find them, the SQL query in $GEO_SCRIPTS/sql/do/find-doubles.sql
 # was used, based on the doubles-dir data generated in 009-case-insensitivity-dirs.sh
 
